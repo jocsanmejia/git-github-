@@ -60,6 +60,10 @@ const loadAds = () => {
     console.log('Ads Loaded')
 }
 
+const affiliateRedirect = () => {
+    //resolver el bug
+}
+
 //Cambio backend 1
 //Cambio backend 2
 //Cambio backend 3
